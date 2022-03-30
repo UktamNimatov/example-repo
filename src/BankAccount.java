@@ -62,5 +62,6 @@ public class BankAccount {
 
     public void printAccountNumber() {
         System.out.println(this.accountNumber);
-    }
+	System.out.println();
+}    
 }
