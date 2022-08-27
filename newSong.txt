@@ -2,8 +2,11 @@ one kiss is all it takes
 to fall in love with
 possibilities
 I look like all you need
+<<<<<<< HEAD
 Dua Lipa is an amazing artist
 I wish her best of luck and 
 personal achievements 
 in her life
+=======
+>>>>>>> 6ef2fe3cef684741ca2d559ecc8da7d446ca8006
 
