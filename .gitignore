@@ -4,4 +4,6 @@ out
 .DS_STORE
 .gitignore.swp
 *.log
+target
+bin
 
